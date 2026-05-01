@@ -131,7 +131,7 @@ trajectories in males (↑) and females (↓) within a mixed-gender dataset.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/vocal-age-analyzer.git
+git clone https://github.com/chelsietao/vocal-age-analyzer.git
 cd vocal-age-analyzer
 
 # 2. Install dependencies
