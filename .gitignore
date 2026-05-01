@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ── Project-specific data and models ─────────────
+AudioWAV/
+features.csv
+model_artifacts.pkl
+VideoDemographics.csv
+*.wav
+*.pkl
